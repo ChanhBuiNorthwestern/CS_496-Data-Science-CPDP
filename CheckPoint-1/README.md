@@ -1,6 +1,6 @@
-# Checkpoint 1 Readme: Relational Analytics
+# Checkpoint 1: Relational Analytics
 
-This checkpoints includes 4 questions that can be answered by SQL statements and statistics. Our questions focus on the theme of "officer-filed complaints", which is also our theme of the project. Our work includes SQL codes and our analysis of the results from these SQL statements. Our questions are:
+This checkpoint includes 4 questions that can be answered by SQL statements and statistics. Our questions focus on the theme of "officer-filed complaints", which is also our theme of the project. Our work includes SQL codes and our analysis of the results from these SQL statements. Our questions are:
 - What percentage of allegations are filed by police officers?  
 - What is the percentage of officers who resign after 2 years after receiving allegation reports made by another officer?  Normalized with the rate of how many officers resign after civilian complaints (% officers who resign 2 years after officer complaint) / (% officers who resign 2 years after civilian complaint)  
 - What is the average age of officers when they have a complaint filed against them by another officer? (compare to overall average age)  
