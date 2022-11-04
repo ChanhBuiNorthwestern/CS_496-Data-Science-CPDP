@@ -12,7 +12,7 @@ Here is the description of our 2 visualization:
 This file includes all of our results from 2 interactive visualization
 
 ### src
-- code.txt: This has links to our notebook
+- CodeLink.txt: This has links to our notebook
 
 
 ### README.md
