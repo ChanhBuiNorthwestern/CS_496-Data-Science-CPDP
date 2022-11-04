@@ -1,6 +1,6 @@
 # Check Point 3 Readme
 
-Our Checkpoint 3 is for Interactive Visualization with D3.js of our project. This checkpoints includes 2 interactive visualizations that focused on individual officers and unit. With the theme of "officer-filed complaints", our first visualization aims to compare the officer-filed complaints and civilian-filed complaints for different district units. The 2nd visualization aims to look at officer-filed complaints for individual officers by different attributes.
+Our Checkpoint 3 is for Interactive Visualization with D3.js of our project. This checkpoints includes 2 interactive visualizations that focused on individual officers and unit. With the theme of "officer-filed complaints", our first visualization aims to compare the officer-filed complaints and civilian-filed complaints for different district units. The 2nd visualization aims to look at officer-filed complaints for individual officers by different attributes
 Here is the description of our 2 visualization:
 
 - Visualize police units on the map along with their officer-officer complaint stats. Specifically, when a police unit is clicked on, 2 pie charts of complaint categories for civilian-filed complaints, and a bar chart that highlights this unit’s rate of officer-officer complaints (normalized by total shift hours) with all other units. And 2 line charts comparing how the normalized rates of officer complaints and civilian complaints (within the unit) compare over time. 
@@ -18,8 +18,8 @@ This file includes all of our results from 2 interactive visualization
 ### README.md
 It is the current file. It contains all general information about Check Point 3.
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
 ## Note on visualizations
 ### Visualization 1
+- For district 13, 21, and 23, the visualization does not have information on these district as they are missing attendance data on the database and thus we cannot normalize them.
 ### Visualization 2
+- 
