@@ -9,19 +9,19 @@ Our Checkpoint 4 is for applying Machine Learning to look into a few specfic dat
 ## Files and Folder
 ### Findings.pdf
 
-This file includes our Python notebooks for both models
+- This file includes our Python notebooks for both models
 
 ### src
-This folder include jupyter notebook file for our code.
+- This folder include jupyter notebook file for our code.
 #### Data_Cleaning.ipynb
-This is the source code for cleaning our supervised data.
+- This is the source code for cleaning our supervised data.
 #### SupervisedML.ipynb
-This is the source code for our classification task.
+- This is the source code for our classification task.
 #### Unsuprvised.ipynb
-This is the source code for our unsupervised task.
+- This is the source code for our unsupervised task.
 
 ### README.md
-It is the current file. It contains all general information about Check Point 4.
+- It is the current file. It contains all general information about Check Point 4.
 
 ## Note on visualizations
 
