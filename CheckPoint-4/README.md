@@ -1,4 +1,4 @@
-# Check Point 3 Readme
+# Check Point 4 Readme
 
 Our Checkpoint 4 is for applying Machine Learning to look into a few specfic data trends. This checkpoint includes 2 types of machine learning tasks. 
 
